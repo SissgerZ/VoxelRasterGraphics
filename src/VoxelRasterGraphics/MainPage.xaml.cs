@@ -1,4 +1,4 @@
-﻿namespace MauiApp1;
+﻿namespace VoxelRasterGraphics.Application;
 
 public partial class MainPage : ContentPage
 {

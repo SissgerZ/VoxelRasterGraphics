@@ -1,7 +1,6 @@
-﻿namespace Renderer
-{
-    public class Class1
-    {
+﻿namespace VoxelRasterGraphics.Renderer;
 
-    }
+public class Class1
+{
+
 }
