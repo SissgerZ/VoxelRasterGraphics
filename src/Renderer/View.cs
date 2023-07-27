@@ -1,6 +1,6 @@
-﻿namespace VoxelRasterGraphics.Application;
+﻿namespace VoxelRasterGraphics.Renderer;
 
-public class MyFirstDrawing : IDrawable
+public class View : IDrawable
 {
     public void Draw(ICanvas canvas, RectF dirtyRect)
     {
